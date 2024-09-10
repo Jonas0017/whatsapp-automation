@@ -1,0 +1,6 @@
+selenium
+opencv-python
+numpy
+pyautogui
+Pillow
+tk  # Tkinter
