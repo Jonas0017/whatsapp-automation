@@ -1,4 +1,4 @@
-# Automação de Mensagens no WhatsApp
+# Automação de Mensagens no WhatsApp com Python
 
 ## Descrição
 
