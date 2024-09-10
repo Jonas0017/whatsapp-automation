@@ -56,6 +56,13 @@ Este projeto consiste em um script de automação para envio de mensagens no Wha
 
 5. As abas do WhatsApp Web serão fechadas automaticamente após o envio da mensagem, pois ele segue enviando enquanto tenham icones para serem clickados.
 
+## Dependências
+
+As bibliotecas utilizadas no projeto estão listadas no arquivo `requirements.txt`. Você pode instalá-las todas de uma vez com o seguinte comando:
+
+```bash
+pip install -r requirements.txt
+
 ## Contribuindo
 
 Se desejar contribuir para o projeto, fique à vontade para fazer um fork, criar uma branch, e abrir um **Pull Request**. Serão bem-vindas melhorias no código e novas funcionalidades.
@@ -63,10 +70,3 @@ Se desejar contribuir para o projeto, fique à vontade para fazer um fork, criar
 ## Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
-## Dependências
-
-As bibliotecas utilizadas no projeto estão listadas no arquivo `requirements.txt`. Você pode instalá-las todas de uma vez com o seguinte comando:
-
-```bash
-pip install -r requirements.txt
