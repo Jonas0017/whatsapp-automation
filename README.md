@@ -48,13 +48,13 @@ Este projeto consiste em um script de automação para envio de mensagens no Wha
     ```bash
     python principal.py
     ```
-2. O sistema vai soliciatar uma url, normalmente usamos uma url de suporte com login e senha que previamente já está configurada com a api do whatsapp para disparos de mensagens manualmente clickando no botões de disparo.
-   
-3. O WhatsApp Web será aberto no navegador caso as imagens do seu sistema estejam corretamente configuradas. Faça login manualmente.
+2. O sistema solicitará uma URL. Geralmente, utilizamos uma URL de suporte com login e senha, que já está previamente configurada com a API do WhatsApp para realizar disparos de mensagens ao clicar nos botões de envio.
+
+3. O WhatsApp Web será aberto no navegador caso as imagens do sistema estejam corretamente configuradas. Faça login manualmente.
 
 4. O sistema detectará o login e enviará as mensagens automaticamente.
 
-5. As abas do WhatsApp Web serão fechadas automaticamente após o envio da mensagem, pois ele segue enviando enquanto tenham icones para serem clickados.
+5. As abas do WhatsApp Web serão fechadas automaticamente após o envio das mensagens, e o sistema continuará clicando nos ícones enquanto eles estiverem disponíveis.
 
 ## Contribuindo
 
@@ -63,3 +63,7 @@ Se desejar contribuir para o projeto, fique à vontade para fazer um fork, criar
 ## Licença
 
 Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+## NOTA:
+
+O sistema ainda apresenta algumas falhas, mas está funcional. Agradecemos pela compreensão.
