@@ -18,6 +18,9 @@ Este projeto consiste em um script de automação para envio de mensagens no Wha
 - **Selenium**: Biblioteca usada para automação do navegador.
 - **OpenCV**: Utilizado para reconhecimento de imagens e detecção de ícones.
 - **PyAutoGUI**: Para simular cliques nos ícones da interface.
+- **Tkinter**: Biblioteca para criar interfaces gráficas simples no Python.
+- **NumPy:** Para manipulação de arrays e imagens com o OpenCV.
+- **Pillow:** Para capturar a tela (usando ImageGrab)
 
 ## Requisitos
 
