@@ -66,4 +66,4 @@ Este projeto está licenciado sob os termos da licença MIT. Consulte o arquivo 
 
 ## NOTA:
 
-O sistema ainda apresenta algumas falhas, mas está funcional. Agradecemos pela compreensão.
+O sistema ainda apresenta algumas falhas, mas está funcional. Agradecemos sua compreensão.
